@@ -1,0 +1,17 @@
+{
+  "name": "nodemongodb",
+  "version": "0.0.1",
+  "description": "Node js app that fetches data from mongodb",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "log": "echo Hello"
+  },
+  "author": "Anurag Sanadi",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.2"
+  }
+}
